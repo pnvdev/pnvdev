@@ -1,16 +1,19 @@
-## Hi there 👋
+## Pablo Nicolás Vallejos
 
-<!--
-**pnvdev/pnvdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer from San Martín de los Andes, Argentina.
 
-Here are some ideas to get you started:
+### 🔧 Technologies & Tools
+- **Frontend**: React, Next.js, Tailwind CSS
+- **Backend**: Node.js, Express, PHP, Laravel
+- **Mobile Development**: React Native
+- **Databases**: MongoDB, PostgreSQL, MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Featured Projects
+- [nextjs-tetris](https://github.com/pnvdev/nextjs-tetris): A classic Tetris game with React and TypeScript, styled with Tailwind CSS.
+- [nextjs-pokesearch-urlsearchparams](https://github.com/pnvdev/nextjs-pokesearch-urlsearchparams): A Pokemon search app using URLSearchParams for query handling.
+- [nextjs-password-generator](https://github.com/pnvdev/nextjs-password-generator): A password generator made with React and Next.js.
+- [nextjs-react-todolist](https://github.com/pnvdev/nextjs-react-todolist): A todo list made with React and Next.js.
+- [nextjs-react-worldtime](https://github.com/pnvdev/nextjs-react-worldtime): A timezone search application using React and Next.js.
+
+### 📫 Get in Touch
+- [LinkedIn](https://www.linkedin.com/in/pablonicolasvallejos)
