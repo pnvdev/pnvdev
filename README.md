@@ -14,7 +14,7 @@ Full Stack Developer from San Martín de los Andes, Argentina.
 - [nextjs-movies](https://github.com/pnvdev/nextjs-movies): A Next.js app to search for movies using the TMDB API, showcasing dynamic routing and debounced search.
 - [nextjs-pokesearch-urlsearchparams](https://github.com/pnvdev/nextjs-pokesearch-urlsearchparams): A Pokemon search app using URLSearchParams for query handling.
 - [nextjs-password-generator](https://github.com/pnvdev/nextjs-password-generator): A password generator made with React and Next.js.
-- [nextjs-ai-prompts](https://github.com/pnvdev/nextjs-ai-prompts): A Next.js app that fetches and displays AI-generated prompts from a Google Sheet, parsed with PapaParse and styled with Tailwind.
+- [nextjs-ai-prompts](https://github.com/pnvdev/nextjs-ai-prompts): A Next.js app that fetches and displays random AI-generated prompts from a Google Sheet, parsed with PapaParse and styled with Tailwind.
 - [nextjs-react-todolist](https://github.com/pnvdev/nextjs-react-todolist): A todo list made with React and Next.js.
 - [nextjs-react-worldtime](https://github.com/pnvdev/nextjs-react-worldtime): A timezone search application using React and Next.js.
 
