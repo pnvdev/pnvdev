@@ -6,7 +6,7 @@ Full Stack Developer from San Martín de los Andes, Argentina.
 - **Frontend**: React, Next.js, Tailwind CSS
 - **Backend**: Node.js, Express, PHP, Laravel
 - **Mobile Development**: React Native
-- **Databases**: MongoDB, PostgreSQL, MySQL
+- **Databases**: MongoDB, PostgreSQL, MySQL, Google Sheets
 
 ### 🌟 Featured Projects
 - [nextjs-tetris](https://github.com/pnvdev/nextjs-tetris): A classic Tetris game with React and TypeScript, styled with Tailwind CSS.
