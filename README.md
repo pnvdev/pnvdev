@@ -17,7 +17,11 @@ Full Stack Developer from San Martín de los Andes, Argentina.
 - [nextjs-ai-prompts](https://github.com/pnvdev/nextjs-ai-prompts): An app that fetches and displays random AI-generated prompts from a Google Sheet, parsed with PapaParse.
 - [nextjs-react-todolist](https://github.com/pnvdev/nextjs-react-todolist): A todo list made with React and Next.js.
 - [nextjs-react-worldtime](https://github.com/pnvdev/nextjs-react-worldtime): A timezone search application using React and Next.js.
+- [nextjs-stablo-blog-custom](https://github.com/pnvdev/nextjs-stablo-blog-custom): A customized version of a blog built with Next.js, featuring category pages, author pages, and a search functionality.
+
 
 ### 📫 Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/pablonicolasvallejos)
 - [Email](mailto:paulvallejos@gmail.com)
+
+
