@@ -24,5 +24,6 @@ Full Stack Developer from San Martín de los Andes, Argentina.
 ### 📫 Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/pablonicolasvallejos)
 - [Email](mailto:paulvallejos@gmail.com)
+- [CV](https://docs.google.com/document/d/11oen6MpdwkltEvQbWMrbxjE7-e2YJ0afJYVo-xjJzWk/edit?usp=sharing)
 
 
