@@ -19,7 +19,8 @@ Full Stack Developer from San Martín de los Andes, Argentina.
 - [nextjs-react-worldtime](https://github.com/pnvdev/nextjs-react-worldtime): A timezone search application using React and Next.js.
 - [nextjs-stablo-blog-custom](https://github.com/pnvdev/nextjs-stablo-blog-custom): A customized version of a blog built with Next.js, featuring category pages, author pages, and a search functionality.
 - [nextjs-weather-leaflet](https://github.com/pnvdev/nextjs-weather-leaflet): An interactive weather application using Next.js, Leaflet, and the OpenWeather API.
-- [nextjs-image-crop](https://nextjs-image-crop.vercel.app): An image crop app to resize or change an image quickly
+- [weather-location-search](https://github.com/pnvdev/weather-location-search): A web application that allows users to search and view locations with their weather on an interactive map.
+- [nextjs-image-crop](https://nextjs-image-crop.vercel.app): An image crop app to resize or change an image quickly.
 
 
 ### 📫 Get in Touch
